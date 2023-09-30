@@ -43,5 +43,6 @@ Para realizar essa análise, utilizamos quatro conjuntos de dados principais: `d
 - churn_date: data de saída (se aplicável) do usuário.
 
 
-Durante a análise, conduzimos dois testes de hipótese simulando cenários relevantes para uma empresa desse setor. Isso nos permitiu obter insights valiosos sobre o desempenho dos diferentes planos e entender melhor o comportamento dos - clientes em relação ao uso de serviços de telecomunicações.
-Essa análise de dados forneceu à empresa informações cruciais para tomar decisões estratégicas informadas e aprimorar seus serviços, garantindo a satisfação dos clientes e o sucesso contínuo no mercado.
+Durante a análise, conduzi dois testes de hipótese simulando cenários relevantes para uma empresa desse setor. Isso me permitiu obter insights valiosos sobre o desempenho dos diferentes planos e entender melhor o comportamento dos clientes em relação ao uso de serviços de telecomunicações.
+
+Essa análise de dados poderia fornecer à empresa informações cruciais para tomar decisões estratégicas informadas e aprimorar seus serviços, garantindo a satisfação dos clientes e o sucesso contínuo no mercado.
