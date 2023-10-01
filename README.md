@@ -3,7 +3,9 @@
 
 O estudo em questão se concentrou na análise de um conjunto de dados fictício pertencente a uma empresa de telecomunicações. Durante essa análise, foram investigados apectos de diferentes planos de serviços oferecidos pela empresa, bem como caracteristicas expecificas de algumas regiões. Adicionalmente, foram identificadas diferenças significativas entre os planos disponíveis, o que permitiu uma compreensão mais profunda do comportamento dos clientes.
 
-Para realizar essa análise, utilizamos quatro conjuntos de dados principais: `df_calls`, `df_int`, `df_msg`, `df_plans` e `df_user`. Aqui está uma breve descrição de cada um deles:
+Para realizar essa análise, utilizei quatro conjuntos de dados principais: `df_calls`, `df_int`, `df_msg`, `df_plans` e `df_user`.
+
+Aqui está uma breve descrição de cada um deles:
 
 `df_calls`
 - id: número de referência único para cada chamada.
